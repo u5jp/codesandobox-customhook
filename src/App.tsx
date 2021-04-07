@@ -19,6 +19,7 @@ export default function App() {
 
   return (
     <div className="App">
+      テスト
       <button onClick={onClickFetchUser}>データ取得</button>
       <br />
       {error ? (
